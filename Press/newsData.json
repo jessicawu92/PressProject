@@ -1,0 +1,30 @@
+{
+    "testing":
+    [
+        {
+            "news_id" : "1",
+            "title" : "Car Accident",
+            "location" : "6 MetroTech Center, Brooklyn, NY 11201",
+            "newsDescription" : "Two people were severely injured and sent to the hospital. The accident has caused serious traffic at Jay st."
+
+        },
+
+        {
+            "news_id" : "2",
+            "title" : "Taylor Swift and Kanye West spotted at Starbucks",
+            "location" : "5 MetroTech Center, Brooklyn, NY 11201",
+            "newsDescription" : "Just saw Taylor Swift and Kanye West at Starbucks!! Looks like they have burried the hatchet?"
+        },
+        {
+            "news_id" : "3",
+            "title" : "NYU Hackathon 2016",
+            "location" : "2 MetroTech Center, Brooklyn, NY 11201",
+            "newsDescription" : "There is a Hackathon going on at the NYU School of Engineering with lots free food and swag! It's packed with students working on awesome projects."
+        }
+
+
+
+    ]
+
+
+}
